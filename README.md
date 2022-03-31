@@ -1,6 +1,6 @@
-# Portugal_Bank_Marketing
+## Portugal_Bank_Marketing
 ---
-포르투갈 마케팅 데이터를 활용해 잠재고객 예측
+###포르투갈 마케팅 데이터를 활용해 잠재고객 예측
 
 1 - 연령 (age)  
 
