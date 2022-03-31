@@ -53,3 +53,4 @@
 ---  
 
 ### 20 - y - 고객이 정기 예금에 가입유무  
+![maketing](https://user-images.githubusercontent.com/81940655/160998322-14e3bdf1-1388-447c-a939-dc8f2f26b089.gif)
