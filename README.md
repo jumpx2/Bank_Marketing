@@ -1,7 +1,10 @@
 ## Portugal_Bank_Marketing
 ---
 ### 포르투갈 마케팅 데이터를 활용해 잠재고객 예측
-
+- shap, seaborn으로 시각화 및 데이터 분석
+- randomforest, xgboost, Lgbm 모델 사용 후 결과 비교 
+---
+### 데이터 설명
 1 - 연령 (age)  
 
 2 - 직업 (job)  
